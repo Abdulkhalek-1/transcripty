@@ -2,6 +2,9 @@
 
 Transcripty is a voice recorder application that allows users to record audio and transcribe it into text. Built with Python using the Flet framework, it provides a simple and user-friendly interface for audio recording and transcription.
 
+## Preview
+![Project Preview](project_preview.png)
+
 ## Features
 
 - Record audio from selected devices
